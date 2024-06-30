@@ -57,4 +57,4 @@ Feel free to reach out to me for collaboration or inquiries:
 
 ---
 
-Thank you for visiting my portfolio! I look forward to connecting with you.
+Thank you for visiting! I look forward to connecting with you.
