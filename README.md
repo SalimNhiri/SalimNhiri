@@ -53,7 +53,7 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 Feel free to reach out to me for collaboration or inquiries:
 
 - **Email**: [salim.nhiri@polytechnique.edu](mailto:salim.nhiri@polytechnique.edu)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/salim-nhiri-728955121/))
 
 ---
 
