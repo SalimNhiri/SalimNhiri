@@ -42,7 +42,7 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 
 ## Skills and Technologies
 
-- **Programming Languages**: Python
+- **Programming Languages**: Python, JavaScript
 - **Frameworks and Libraries**: FastAPI, TensorFlow, Keras, PyTorch, Hugging Face Transformers, Scikit-learn
 - **Tools**: Docker, Kubernetes, Redis, RabbitMQ, Git
 - **Data Processing**: Pandas, NumPy
