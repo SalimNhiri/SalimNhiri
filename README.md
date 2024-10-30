@@ -22,7 +22,7 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 
 #### 🔧 Technologies & Tools
 
-![Azure](https://img.shields.io/badge/-microsoftazure-000?&logo=microsoftazure&logoColor=3399ff)
+![Azure](https://img.shields.io/badge/-MongoDB-000?&logo=microsoftazure&logoColor=3399ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
