@@ -1,4 +1,4 @@
-# My Portfolio
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Welcome%20To%20My%20GitHub&fontSize=40&animation=fadeIn&color=gradient&customColorList=6)
 
 Welcome to my portfolio repository! This repository showcases my skills and projects in Python, particularly in the areas of Artificial Intelligence (AI) and FastAPI. Below you will find an overview of the projects and examples that demonstrate my expertise.
 
