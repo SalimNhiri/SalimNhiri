@@ -24,7 +24,7 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 
 ![Azure](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Angular](https://img.shields.io/badge/-FastApi-000?&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
