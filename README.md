@@ -3,7 +3,7 @@
 Welcome to my portfolio repository! This repository showcases my skills and projects in Python, particularly in the areas of Artificial Intelligence (AI) and FastAPI. Below you will find an overview of the projects and examples that demonstrate my expertise.
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SalimNhiri)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SalimNhiri.PERSONAL)
 
 #### 👨‍💻 Programming Languages
 
