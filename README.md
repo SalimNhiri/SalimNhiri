@@ -56,5 +56,10 @@ Feel free to reach out to me for collaboration or inquiries:
 - **LinkedIn**: [Salim Nhiri](https://www.linkedin.com/in/salim-nhiri-728955121/))
 
 ---
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=SalimNhiri&show_icons=true&theme=radical" width="50%" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=SalimNhiri&theme=dark" width="60%" />
+</p>
 
 Thank you for visiting! I look forward to connecting with you.
