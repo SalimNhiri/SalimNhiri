@@ -2,6 +2,36 @@
 
 Welcome to my portfolio repository! This repository showcases my skills and projects in Python, particularly in the areas of Artificial Intelligence (AI) and FastAPI. Below you will find an overview of the projects and examples that demonstrate my expertise.
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SalimNhiri.SalimNhiri)
+
+#### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+###### Murkup
+
+![HTML](https://img.shields.io/badge/-html5-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=004FF9)
+
+
+#### 🔧 Technologies & Tools
+
+![Azure](https://img.shields.io/badge/-microsoftazure-000?&logo=microsoftazure&logoColor=3399ff)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![PyCharm](https://img.shields.io/badge/-pycharm-000?&logo=pycharm)
+![WebStorm](https://img.shields.io/badge/-webstorm-000?&logo=webstorm)
+![VScode](https://img.shields.io/badge/-visualstudio-000?&logo=visualstudio&logoColor=0066ff)
+
 ## Projects
 
 ### 1. AI Projects
