@@ -11,7 +11,7 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ###### Murkup
@@ -29,7 +29,7 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Spring](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![PyCharm](https://img.shields.io/badge/-pycharm-000?&logo=pycharm)
-![WebStorm](https://img.shields.io/badge/-webstorm-000?&logo=webstorm)
+![WebStorm](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VScode](https://img.shields.io/badge/-visualstudio-000?&logo=visualstudio&logoColor=0066ff)
 
 ## Projects
