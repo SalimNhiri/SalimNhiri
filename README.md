@@ -92,4 +92,7 @@ Feel free to reach out to me for collaboration or inquiries:
   <img src="https://streak-stats.demolab.com?user=SalimNhiri&theme=dark" width="60%" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SalimNhiri&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 Thank you for visiting! I look forward to connecting with you.
