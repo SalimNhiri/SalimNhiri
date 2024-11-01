@@ -93,6 +93,6 @@ Feel free to reach out to me for collaboration or inquiries:
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SalimNhiri&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SalimNhiri&theme=onedark&no-frame=false&no-bg=true)
 
 Thank you for visiting! I look forward to connecting with you.
