@@ -13,6 +13,7 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Batch](https://img.shields.io/badge/-Batch-000?&logo=Batch)
 
 ###### Murkup
 
