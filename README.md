@@ -27,6 +27,7 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-FastApi-000?&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Spring](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![PyCharm](https://img.shields.io/badge/-pycharm-000?&logo=pycharm)
